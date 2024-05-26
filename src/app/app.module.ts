@@ -1,20 +1,28 @@
 import { NgModule } from '@angular/core';
-import { BrowserModule, provideClientHydration } from '@angular/platform-browser';
+import { BrowserModule } from '@angular/platform-browser';
 
-import { AppRoutingModule } from './app-routing.module';
+import { HttpClientModule } from "@angular/common/http";
 import { AppComponent } from './app.component';
+import { ChessBoardComponent } from './modules/chess-board/chess-board.component';
+import { ComputerModeComponent } from './modules/computer-mode/computer-mode.component';
+import { NavMenuComponent } from './modules/nav-menu/nav-menu.component';
+import { AppRoutingModule } from './routes/app-routing.module';
+import { PlayAgainstComputerDialogComponent } from './modules/play-against-computer-dialog/play-against-computer-dialog.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ChessBoardComponent,
+    ComputerModeComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    HttpClientModule,
+    AppRoutingModule,
+    NavMenuComponent,
+    PlayAgainstComputerDialogComponent,
   ],
-  providers: [
-    provideClientHydration()
-  ],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
