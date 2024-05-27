@@ -35,7 +35,7 @@ This project is not top-tier or perfect, but it’s sufficient for its intended 
 
 ## Overview of the Project Model
 
-<img src="https://github.com/Gaurav-Van/Chess-Game-Using-TypeScript/assets/50765800/2de91600-425f-43a7-a456-6bed6de5b741" height=400 width=900>
+<img src="https://github.com/Gaurav-Van/Chess-Game-Using-TypeScript/assets/50765800/abdf2a21-6822-4200-8717-4ff6e90f5518" height=400 width=900>
 
 ### Forsyth–Edwards Notation (FEN)
 
