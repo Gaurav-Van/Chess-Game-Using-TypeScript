@@ -3,8 +3,8 @@ A Chess Game made using TypeScript and Angular. Play with your friend in the sam
 
  - Play with your Friend in the same browser
  - Play Against Computer which in this case is Stockfish
- - On left we have Move Tracker which tracks every moves and gives you the ability to go back to prev stage [view only] 
- - On Right we have an option to choose Stockfish level and the color. That pops up when user wants to play against computer.
+ - On left we have Move Tracker which tracks every moves and gives you the ability to go back to prev stage
+ - On Right we have an option to choose Stockfish level. That pops up when user wants to play against computer.
  - Functionality of Promotion
 
 <hr>
