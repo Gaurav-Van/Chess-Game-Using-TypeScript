@@ -15,7 +15,7 @@ A Chess Game made using TypeScript and Angular. Play with your friend in the sam
 
 | Topics Covered                                     |
 | -------------------------------------------------- |
-| [Demo of the Project](demo-of-the-project)                               |
+| [Demo of the Project](#demo-of-the-project)                               |
 | [Overview of the Project Model]()                     |
 | [Some Basic Concepts of Angular used in this project]() |
 | [Functionalities of Some Important Functions]()        |
