@@ -38,6 +38,7 @@
 
 .game-over-message {
   color: white;
+  margin-left: 120px;
 }
 
 .promotion-dialog {
