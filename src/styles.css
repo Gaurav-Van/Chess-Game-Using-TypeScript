@@ -24,11 +24,10 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 }
 
 .cdk-overlay-pane {
-  background-color: tomato;
   pointer-events: auto;
   box-sizing: border-box;
   width: 410px !important;
   margin-left: 1250px;
-  margin-top: -150px;
+  margin-top: -30px;
 }
 
