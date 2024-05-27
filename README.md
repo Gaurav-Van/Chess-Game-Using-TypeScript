@@ -16,10 +16,10 @@ A Chess Game made using TypeScript and Angular. Play with your friend in the sam
 | Topics Covered                                     |
 | -------------------------------------------------- |
 | [Demo of the Project](#demo-of-the-project)                               |
-| [Overview of the Project Model]()                     |
-| [Some Basic Concepts of Angular used in this project]() |
-| [Functionalities of Some Important Functions]()        |
-| [How to Run it]()                                      |
+| [Overview of the Project Model](#overview-of-the-project-model)                     |
+| [Some Basic Concepts of Angular used in this project](#some-basic-concepts-of-angular-used-in-this-project) |
+| [Functionalities of Some Important Functions](#functionalities-of-some-important-functions)        |
+| [How to Run it](#how-to-run-it)                                      |
 <hr>
 
 ## Demo of the Project
@@ -242,7 +242,8 @@ It is common to use both `OnInit` and `OnDestroy` in a component to handle initi
 <hr>
 
 ## Functionalities of Some Important Functions  
+<hr>
 
-
+## How to Run it
 
 
