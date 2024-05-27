@@ -578,14 +578,14 @@ CALL unmarkingPreviouslySelectedAndSafeSquares()
 
 ## How to Run it
 
-### Clone this Repo
-```
-git clone this_repo_url
-```
 ### Install Angular CLI and Node JS
 ```
 Install Node JS from their Official Site
 Angular CLI: npm install -g @angular/cli
+```
+### Create Angular Project through cli 
+```
+ng new my-project-name --no-standalone
 ```
 ### Add Angular Materials
 ```
@@ -594,4 +594,9 @@ Choose Custom theme
 Set up global Angular Material typography styles: No
 Do not include animations
 ```
+### Clone this Repo into a Different Folder
+```
+git clone this_repo_url
+```
+Compare the strucuture of your Angular Project and the one you cloned. Add the missing folders and files.
 
