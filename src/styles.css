@@ -18,3 +18,17 @@ body {
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
+.mat-mdc-dialog-content{
+  margin: 10px 20px 5px 40px !important;
+  width: 350px;
+}
+
+.cdk-overlay-pane {
+  background-color: tomato;
+  pointer-events: auto;
+  box-sizing: border-box;
+  width: 410px !important;
+  margin-left: 1250px;
+  margin-top: -150px;
+}
+
