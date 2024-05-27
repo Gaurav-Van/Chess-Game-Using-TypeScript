@@ -1,13 +1,11 @@
 # Chess Game Using TypeScript
 A Chess Game made using TypeScript and Angular. Play with your friend in the same browser or against a computer which uses Stockfish API
 
-```
  - Play with your Friend in the same browser
  - Play Against Computer which in this case is Stockfish
  - On left we have Move Tracker which tracks every moves and gives you the ability to go back to prev stage [view only] 
  - On Right we have an option to choose Stockfish level and the color. That pops up when user wants to play against computer.
- - functionality of Promotion
-```
+ - Functionality of Promotion
 
 <hr>
 <b>Optional: </b> As I continue to expand the Domain of my Knowledge I recently did Basics of Angular and Typescript. In my opinion Knowing JavaScript and a statically-typed language like Java or C++ can make learning TypeScript significantly easier. Concepts like Single Page Application, Structure of Angular Project, Concepts like Directives, lifecycle hooks are really Important. <a href="https://www.youtube.com/watch?v=fJIsqZmQVZQ">This</a> video from FCC helped in completion of this Game. Learned a lot about TypeScript, Angular and Logic Building through this video. 
