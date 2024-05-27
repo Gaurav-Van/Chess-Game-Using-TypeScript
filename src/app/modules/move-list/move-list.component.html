@@ -1,19 +1,19 @@
-<div>
-  <button mat-icon-button color="primary" [disabled]="gameHistoryPointer === 0" (click)="showPreviousPosition(0)">
+<div class="navigate-buttons">
+  <button class="first-page" mat-icon-button color="primary" [disabled]="gameHistoryPointer === 0" (click)="showPreviousPosition(0)">
       <mat-icon>first_page</mat-icon>
   </button>
 
-  <button mat-icon-button color="primary" [disabled]="gameHistoryPointer === 0"
+  <button class="navigate-before" mat-icon-button color="primary" [disabled]="gameHistoryPointer === 0"
       (click)="showPreviousPosition(gameHistoryPointer - 1)">
       <mat-icon>navigate_before</mat-icon>
   </button>
 
-  <button mat-icon-button color="primary" [disabled]="gameHistoryPointer === gameHistoryLength - 1"
+  <button class="navigate-next" mat-icon-button color="primary" [disabled]="gameHistoryPointer === gameHistoryLength - 1"
       (click)="showPreviousPosition(gameHistoryPointer + 1)">
       <mat-icon>navigate_next</mat-icon>
   </button>
 
-  <button mat-icon-button color="primary" [disabled]="gameHistoryPointer === gameHistoryLength - 1"
+  <button class="last-page" mat-icon-button color="primary" [disabled]="gameHistoryPointer === gameHistoryLength - 1"
       (click)="showPreviousPosition(gameHistoryLength - 1)">
       <mat-icon>last_page</mat-icon>
   </button>

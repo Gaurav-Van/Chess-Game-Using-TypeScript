@@ -1,0 +1,20 @@
+.nav-bar{
+  padding-top:20px;
+  padding-bottom: 2px;
+  padding-left: 20px;
+  padding-right: 1px;
+}
+
+.friend{
+  background-color: rgb(202, 196, 196);
+  border-radius: 1500px;
+  padding: 6px 10px 6px 10px;
+  margin-left: 678px;
+}
+
+.computer{
+  background-color: rgb(202, 196, 196);
+  border-radius: 1500px;
+  padding: 6px 10px 6px 10px;
+  margin-left: 20px;
+}
