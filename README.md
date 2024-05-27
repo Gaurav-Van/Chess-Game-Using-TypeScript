@@ -1,5 +1,5 @@
 # Chess Game Using TypeScript
-A Chess Game made using TypeScript and Angular. Play with your friend in the same browser or against a computer which uses Stockfish API
+A Chess Game Developed using TypeScript and Angular. Play with your friend in the same browser or against a computer which uses Stockfish API
 
  - Play with your Friend in the same browser
  - Play Against Computer which in this case is Stockfish
