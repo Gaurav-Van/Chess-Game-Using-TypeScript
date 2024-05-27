@@ -8,6 +8,7 @@ import { ComputerModeComponent } from './modules/computer-mode/computer-mode.com
 import { NavMenuComponent } from './modules/nav-menu/nav-menu.component';
 import { AppRoutingModule } from './routes/app-routing.module';
 import { PlayAgainstComputerDialogComponent } from './modules/play-against-computer-dialog/play-against-computer-dialog.component';
+import { MoveListComponent } from './modules/move-list/move-list.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import { PlayAgainstComputerDialogComponent } from './modules/play-against-compu
     AppRoutingModule,
     NavMenuComponent,
     PlayAgainstComputerDialogComponent,
+    MoveListComponent,
   ],
   providers: [],
   bootstrap: [AppComponent]
