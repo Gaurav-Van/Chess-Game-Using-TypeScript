@@ -7,6 +7,8 @@ A Chess Game Developed using TypeScript and Angular. Play with your friend in th
  - On Right we have an option to choose Stockfish level. That pops up when user wants to play against computer.
  - Functionality of Promotion
 
+Project Deployed as a web app on firebase: https://chess-game-using-typescript.web.app/Chess-Game-Using-TypeScript/
+
 <hr>
 <b>Optional: </b> As I continue to expand the Domain of my Knowledge I recently did Basics of Angular and Typescript. In my opinion Knowing JavaScript and a statically-typed language like Java or C++ can make learning TypeScript significantly easier. Concepts like Single Page Application, Structure of Angular Project, Concepts like Directives, lifecycle hooks are really Important. <a href="https://www.youtube.com/watch?v=fJIsqZmQVZQ">This</a> video from FCC helped in completion of this Game. Learned a lot about TypeScript, Angular and Logic Building through this video. 
 <hr>
