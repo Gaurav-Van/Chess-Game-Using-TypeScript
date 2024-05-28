@@ -6,6 +6,7 @@ A Chess Game Developed using TypeScript and Angular. Play with your friend in th
  - On left we have Move Tracker which tracks every moves and gives you the ability to go back to prev stage
  - On Right we have an option to choose Stockfish level. That pops up when user wants to play against computer.
  - Functionality of Promotion
+<hr>
 
 Project Deployed as a web app on firebase: https://chess-game-using-typescript.web.app/Chess-Game-Using-TypeScript/
 
